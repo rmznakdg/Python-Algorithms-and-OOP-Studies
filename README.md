@@ -1,9 +1,10 @@
 # Python Algorithms & OOP Studies 
 
 This repository serves as a collection of my algorithmic solutions and object-oriented programming (OOP) practices developed during my Computer Engineering education.
-
 ## 🚀 Overview
 The main goal of these studies is to strengthen data structure logic and implement clean code principles in Python.
+
+**Note:** As a Computer Engineering student, I use this repository to document my coding journey. These scripts represent my practical experiments with algorithms and OOP concepts, showing my progress from basics to more complex implementations.
 
 ## 📂 Repository Structure
 
